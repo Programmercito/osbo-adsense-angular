@@ -38,12 +38,7 @@
     "ng-packagr": "^15.2.2",
     "typescript": "~4.9.4"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://www.opensource.org/licenses/mit-license.php"
-    }
-  ],
+  "license": "MIT",
   "keywords": [
     "adsense",
     "google",

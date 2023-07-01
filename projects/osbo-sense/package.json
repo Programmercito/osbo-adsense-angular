@@ -9,12 +9,7 @@
     "tslib": "^2.3.0"
   },
   "sideEffects": false,
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://www.opensource.org/licenses/mit-license.php"
-    }
-  ],
+  "license": "MIT",
   "keywords": [
     "adsense",
     "google",
