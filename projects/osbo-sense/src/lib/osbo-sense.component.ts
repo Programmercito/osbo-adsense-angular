@@ -39,6 +39,6 @@ export class OsboSenseComponent implements AfterViewInit {
     
   }
   ngAfterViewInit() {
-    this.scriptservice.executeScript("(adsbygoogle = window.adsbygoogle || []).push({});", this.divcito);
+    this.scriptservice.executeScript("(adsbygoogle = window.adsbygoogle || []).push({});", this.divi);
   }
 }
