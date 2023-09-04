@@ -1,6 +1,6 @@
 {
   "name": "osbo-adsense-angular",
-  "version": "0.0.8",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
